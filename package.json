@@ -15,7 +15,7 @@
   "license": "MIT",
   "devDependencies": {
     "jest": "^22.4.3",
-    "marko": "^4.0.0-rc.23",
+    "marko": "^4.13.6",
     "memory-fs": "^0.4.1",
     "npm-install-version": "^6.0.2"
   },
